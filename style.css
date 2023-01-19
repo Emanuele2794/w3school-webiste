@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-family: "source Sans Pro", sans-serif;
+}
+
+#learntocode {
+    padding-top: 90px;
+    width: auto;
+    height: 486px;
+    text-align: center;
+    background-color: #282a35;
+}
+
+.opening {
+color: white;
+margin: 2px, -20px;
+font-size: 70px;
+}
+
+.payoffh3 {
+    color: #ffc0c7;
+    font-size: 23px;
+    margin-top: 30px;
+}
+
+.input-group {
+    height: 42px;
+    float:center;
+}
+  
+  .btn-success {
+    position: absolute;
+    margin-left: 0;
+    border-radius:25px;
+    float: left;
+    width: 100px;
+    padding: 10px;
+    background:#04AA6D;
+    color: white;
+    font-size: 17px;
+    border: 1px solid #282A35;
+    border-left: none;
+    cursor: pointer;
+    border-top-left-radius:0;
+    border-bottom-left-radius:0;
+  }
+  
+  .btn-success:hover {
+    background: #059862;
+    color: white;
+  }
+
+  .bi-search {
+    margin: auto;
+  }
+  
+  .form-control {
+    padding: 0;
+    border: 0;
+    height: 42px;
+    width: 400px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+  }
+  
+  .roadmaplink {
+    color: white;
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 30px;
+  }
